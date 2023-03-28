@@ -1,0 +1,1 @@
+SELECT * FROM excercise1.emp_1;
